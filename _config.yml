@@ -1,0 +1,27 @@
+# Site settings
+title: Siera サンプルコピーサイト
+email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "https://gucciii.github.io" # the subpath of your site, e.g. /blog/
+url: "https://gucciii.github.io" # the base hostname & protocol for your site
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Build settings
+markdown: kramdown
+
+paginate: 4
+
+author: ゴンベモン
+
+gems: [jekyll-paginate]
+
+
+# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
+google_analytics: UA-XXXXXXXXXX-2
+
+
+timezone: Asia/Tokyo
