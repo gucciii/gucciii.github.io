@@ -1,3 +1,2 @@
 # siera
-
-jekyll theme test
+jekyll theme

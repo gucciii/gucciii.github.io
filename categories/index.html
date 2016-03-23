@@ -1,10 +1,14 @@
---- layout: categorypage title: キーワード ---
+---
+layout: categorypage
+title: キーワード
+---
 
 <div class="container">
 
-    <h1>{{ page.title }}</h1>
-    <p>記事をまとめています。</p>
-    <p.noindent>
-        {% for category in site.categories %} <a href="{{ category }}/index.html">{{ category }}</a> {% endfor %}
-        </p>
+<h1>{{ page.title }}</h1>
+<p>記事をまとめています。</p>
+<p.noindent>
+{% for category in site.categories %} <a href="{{ category }}/index.html">{{ category }}</a>
+{% endfor %}
+</p>
 </div>
