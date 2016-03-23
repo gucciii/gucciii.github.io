@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "閏年"
+date:   2016-02-29 14:00:00 UTC+9
+category: newcategory
+tags:
+image: /images/pic09.jpg
+---
+
+日付テスト
+
+{% highlight ruby %}
+[Yahoo!][Yahoo]
+{% endhighlight %}
+
+[Yahoo]: http://yahoo.co.jp

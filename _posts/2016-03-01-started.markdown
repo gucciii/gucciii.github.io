@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "3/1"
+date:   2016-03-01 1:00:00 UTC+9
+categories: お知らせ
+tags:
+image: /images/pic01.jpg
+---
+
+日付テスト
+
+{% highlight ruby %}
+[Yahoo!][Yahoo]
+{% endhighlight %}
+
+[Yahoo]: http://yahoo.co.jp
