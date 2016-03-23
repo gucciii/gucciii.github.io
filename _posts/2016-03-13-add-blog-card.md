@@ -6,9 +6,9 @@ categories: newcategory
 tags:
 image: /images/pic04.jpg
 
-blog-card-site: www.hatena.ne.jp
-blog-card-url: http://www.hatena.ne.jp/
-blog-card-image: /images/pic01.jpg
+blog-card-site: wikipedia.org
+blog-card-url: hhttps://upload.wikipedia.org/
+blog-card-image: https://upload.wikimedia.org/wikipedia/commons/7/75/Transparent_flag_with_question_mark.png
 blog-card-site-title: はてなtest
 blog-card-desc: hatena test </br> test
 
