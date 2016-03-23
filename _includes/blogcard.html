@@ -1,14 +1,16 @@
 
 <div class="blog-card">
   <div class="blog-card-thumbnail">
+    <a href="{{ page.blog-card-url }}" class="blog-card-thumbnail-link" target="_blank">
+      <img width="128" height="81" src="{{ page.blog-card-image }}" class="blog-card-thumb-image"  />
     <a href="{{ page.url }}" class="blog-card-thumbnail-link" target="_blank">
       <img width="128" height="81" src="{{ page.image }}" class="blog-card-thumb-image"  />
     </a>
   </div>
   <div class="blog-card-content">
     <div class="blog-card-title">
-      <a href="{{ page.url }}" class="blog-card-thumbnail-link" target="_blank">
-        {{ page.title }}
+      <a href="{{ page.blog-card-url }}" class="blog-card-thumbnail-link" target="_blank">
+        {{ page.blog-card-site-title }}
       </a>
     </div>
     <div class="blog-card-excerpt">{{ page.blog-card-desc}}

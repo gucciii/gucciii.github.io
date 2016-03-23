@@ -9,10 +9,11 @@ image: /images/pic04.jpg
 blog-card-site: www.hatena.ne.jp
 blog-card-url: http://www.hatena.ne.jp/
 blog-card-image: /images/pic01.jpg
-blog-card-site-title: はてな
+blog-card-site-title: はてなtest
 blog-card-desc: hatena test </br> test
 
 ---
+
 
 - blogcardテスト
 
