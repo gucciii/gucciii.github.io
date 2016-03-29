@@ -14,6 +14,18 @@ blog-card-desc: hatena test </br> test
 
 ---
 
+- include テスト
+
+{% include image.html image-url="/images/pic01.jpg" image-alt="テスト" image-style="width: 100%;max-width: 600px" %}
+
+- include テスト2 style
+{% include image.html image-url="/images/pic02.jpg" image-alt="テスト2" %}
+
+- include テスト3 url
+{% include image.html image-alt="テスト3" image-style="width: 100%;max-width: 600px" %}
+
+- include テスト4 url
+{% include image.html image-url="" image-alt="test4" image-style="width: 100%;max-width: 600px" %}
 
 - blogcardテスト
 
