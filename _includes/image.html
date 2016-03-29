@@ -1,0 +1,18 @@
+
+
+{% if include.image-url.size > 0 %}
+<div align="left">
+<img src="{{include.image-url}}"
+{% if include.image-alt.size > 0 %}
+ alt="{{include.image-alt}}"
+{% else %}
+
+{% endif %}
+
+{% if include.image-style.size > 0 %}
+ style="{{include.image-style}}" />
+{% else %}
+ style="" />
+{% endif %}</div>
+
+{% endif %}
